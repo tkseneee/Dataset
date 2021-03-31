@@ -1,0 +1,615 @@
+Married,Education,ApplicantIncome,LoanAmount,Credit_History,Loan_Status
+No,Graduate,5849,,1,0.1
+Yes,Graduate,4583,128,1,0.32
+Yes,Graduate,3000,66,1,0.09
+Yes,Not Graduate,2583,120,1,0.06
+No,Graduate,6000,141,1,0.01
+Yes,Graduate,5417,267,1,0.73
+Yes,Not Graduate,2333,95,1,0
+Yes,Graduate,3036,158,0,0.99
+Yes,Graduate,4006,168,1,0.45
+Yes,Graduate,12841,349,1,0.2
+Yes,Graduate,3200,70,1,0.24
+Yes,Graduate,2500,109,1,0.08
+Yes,HSC,3073,200,1,0.04
+No,Graduate,1853,114,1,0.39
+Yes,Graduate,1299,17,1,0.02
+No,Graduate,4950,125,1,0.32
+No,Not Graduate,3596,100,,0.39
+No,Graduate,3510,76,0,0.99
+Yes,Not Graduate,4887,133,1,0.73
+Yes,Graduate,2600,115,1,0
+Yes,HSC,7660,104,0,0.96
+Yes,Graduate,5955,315,1,0.53
+Yes,Not Graduate,2600,116,0,0.98
+Yes,HSC,3365,112,0,0.84
+Yes,Graduate,3717,151,,0.38
+Yes,Graduate,9560,191,1,0.01
+Yes,Graduate,2799,122,1,0
+Yes,Not Graduate,4226,110,1,0.27
+No,Not Graduate,1442,35,1,0.51
+No,HSC,3750,120,1,0.16
+Yes,Graduate,4166,201,,0.21
+No,Graduate,3167,74,1,0.5
+No,Graduate,4692,106,1,0.86
+Yes,Graduate,3500,114,1,0.08
+No,Graduate,12500,320,1,0.64
+Yes,Graduate,2275,,1,0.01
+Yes,HSC,1828,100,0,0.85
+Yes,Graduate,3667,144,1,0.16
+No,Graduate,4166,184,1,0.13
+No,Not Graduate,3748,110,1,0.04
+No,Graduate,3600,80,1,0.03
+No,Graduate,1800,47,1,0.24
+Yes,Graduate,2400,75,,0.03
+Yes,Graduate,3941,134,1,0.38
+Yes,HSC,4695,96,1,0.03
+No,Graduate,3410,88,1,0.05
+Yes,Graduate,5649,44,1,0.04
+Yes,Graduate,5821,144,1,0.13
+Yes,Graduate,2645,120,0,0.95
+No,Graduate,4000,144,1,0.01
+Yes,Not Graduate,1928,100,1,0.14
+No,Graduate,3086,120,1,0.04
+No,Graduate,4230,112,1,0.76
+Yes,Graduate,4616,134,1,0.51
+Yes,Graduate,11500,286,0,0.88
+Yes,Graduate,2708,97,1,0
+Yes,Graduate,2132,96,1,0.01
+Yes,Graduate,3366,135,1,0.36
+Yes,Graduate,8080,180,1,0.02
+Yes,Not Graduate,3357,144,1,0.08
+Yes,Graduate,2500,120,1,0.01
+Yes,Graduate,3029,99,1,0
+Yes,Not Graduate,2609,165,0,0.99
+Yes,Graduate,4945,,0,0.85
+No,Graduate,4166,116,0,0.98
+Yes,Graduate,5726,258,1,0.7
+No,Not Graduate,3200,126,0,0.84
+Yes,Graduate,10750,312,1,0.05
+Yes,Not Graduate,7100,125,1,0.18
+No,Graduate,4300,136,0,0.89
+Yes,Graduate,3208,172,1,0.3
+Yes,Not Graduate,1875,97,1,0.05
+No,Graduate,3500,81,1,0.03
+Yes,Not Graduate,4755,95,0,0.96
+Yes,Graduate,5266,187,1,0.39
+No,Graduate,3750,113,1,0.44
+No,Graduate,3750,176,1,0.45
+Yes,Graduate,1000,110,1,0.29
+Yes,Graduate,3167,180,0,0.96
+Yes,Not Graduate,3333,130,,0.38
+No,Graduate,3846,111,1,0.47
+Yes,HSC,2395,,1,0.03
+Yes,Graduate,1378,167,1,0.63
+Yes,Graduate,6000,265,,0.71
+Yes,Graduate,3988,50,1,0.12
+No,Graduate,2366,136,1,0.33
+Yes,Not Graduate,3333,99,,0.07
+Yes,Graduate,2500,104,1,0.01
+No,Graduate,8566,210,1,0.1
+Yes,HSC,5695,175,1,0.05
+Yes,Graduate,2958,131,1,0
+Yes,Graduate,6250,188,1,0.08
+Yes,Not Graduate,3273,81,1,0.12
+No,Graduate,4133,122,1,0.02
+No,HSC,3620,25,1,0.23
+No,Graduate,6782,,,0.63
+Yes,Graduate,2484,137,1,0.06
+Yes,Graduate,1977,50,1,0.07
+Yes,Not Graduate,4188,115,1,0.28
+Yes,Graduate,1759,131,1,0.15
+Yes,Not Graduate,4288,133,1,0.26
+No,Graduate,4843,151,1,0.13
+Yes,Graduate,13650,,1,0.24
+Yes,Graduate,4652,,1,0.37
+,Graduate,3816,160,1,0.06
+Yes,Graduate,3052,100,1,0.01
+Yes,Graduate,11417,225,1,0
+No,Not Graduate,7333,120,1,0.53
+Yes,Graduate,3800,216,0,0.95
+Yes,Not Graduate,2071,94,1,0.2
+No,Graduate,5316,136,1,0.03
+Yes,Graduate,2929,139,1,0.03
+Yes,Not Graduate,3572,152,0,0.98
+No,Graduate,7451,,1,0.02
+No,Graduate,5050,118,1,0.11
+Yes,Graduate,14583,185,1,0.14
+Yes,Graduate,3167,154,1,0.22
+Yes,Graduate,2214,85,,0.31
+Yes,Graduate,5568,175,1,0.47
+No,Graduate,10408,259,1,0.45
+Yes,Graduate,5667,180,1,0.31
+No,Graduate,4166,44,1,0.4
+No,Graduate,2137,137,0,0.59
+Yes,Graduate,2957,81,1,0.03
+Yes,Not Graduate,4300,194,1,0.52
+No,Graduate,3692,93,,0.13
+Yes,Graduate,23803,370,1,0.23
+No,Graduate,3865,,1,0.12
+Yes,Graduate,10513,160,0,0.91
+Yes,Graduate,6080,182,,0.56
+No,Graduate,20166,650,,0.25
+No,Graduate,2014,74,1,0.74
+No,Graduate,2718,70,1,0.02
+Yes,Graduate,3459,25,1,0.36
+No,HSC,4895,102,1,0.05
+Yes,Graduate,4000,290,1,0.79
+Yes,Graduate,4583,84,1,0.75
+Yes,Graduate,3316,88,1,0.08
+No,Graduate,14999,242,0,0.93
+Yes,Not Graduate,4200,129,1,0.67
+Yes,Graduate,5042,185,1,0.4
+No,Graduate,5417,168,1,0.01
+No,Graduate,6950,175,1,0.04
+Yes,HSC,2698,122,1,0.01
+Yes,Graduate,11757,187,1,0.01
+Yes,Graduate,2330,100,1,0
+Yes,Graduate,14866,70,1,0.06
+Yes,Graduate,1538,30,1,0.04
+No,Graduate,10000,225,1,0.62
+Yes,Graduate,4860,125,1,0.03
+No,Graduate,6277,118,0,0.91
+Yes,Graduate,2577,152,1,0.07
+No,Graduate,9166,244,1,0.31
+Yes,Not Graduate,2281,113,1,0.2
+No,Graduate,3254,50,1,0.23
+Yes,Graduate,39999,600,0,0.29
+Yes,Graduate,6000,160,,0.1
+Yes,Graduate,9538,187,1,0.01
+No,Graduate,2980,120,1,0.03
+Yes,Graduate,4583,255,1,0.12
+Yes,Not Graduate,1863,98,1,0.05
+Yes,Graduate,7933,275,1,0.29
+Yes,Graduate,3089,121,0,0.95
+Yes,Graduate,4167,158,1,0.15
+Yes,Graduate,9323,75,1,0.07
+Yes,Graduate,3707,182,1,0.13
+Yes,Graduate,4583,112,1,0.79
+Yes,Graduate,2439,129,1,0.01
+No,Graduate,2237,63,0,0.87
+Yes,Graduate,8000,200,1,0
+Yes,Not Graduate,1820,95,1,0.03
+Yes,Graduate,51763,700,1,0.6
+Yes,Not Graduate,3522,81,1,0.1
+Yes,Graduate,5708,187,1,0.28
+Yes,Not Graduate,4344,87,1,0.21
+Yes,Graduate,3497,116,1,0.05
+Yes,Graduate,2045,101,1,0
+Yes,Graduate,5516,495,0,0.89
+Yes,Graduate,3750,116,1,0
+No,Not Graduate,2333,102,0,0.95
+Yes,Graduate,6400,180,0,0.95
+No,Graduate,1916,67,,0.56
+Yes,Graduate,4600,73,1,0.55
+Yes,Graduate,33846,260,1,0.69
+Yes,Graduate,3625,108,1,0.03
+Yes,Graduate,39147,120,1,0.07
+Yes,HSC,2178,66,0,0.88
+Yes,Graduate,2383,58,,0.04
+Yes,HSC,674,168,1,0.29
+Yes,Graduate,9328,188,1,0.06
+No,Not Graduate,4885,48,1,0.14
+No,HSC,12000,164,1,0.77
+Yes,Not Graduate,6033,160,1,0.66
+No,Graduate,3858,76,1,0.19
+No,Graduate,4191,120,1,0.24
+Yes,HSC,3125,170,1,0.12
+No,Graduate,8333,187,1,0.01
+No,Not Graduate,1907,120,1,0.07
+Yes,HSC,3416,113,,0.03
+No,Graduate,11000,83,1,0.22
+Yes,Not Graduate,2600,90,1,0.05
+No,Graduate,4923,166,0,0.25
+Yes,Not Graduate,3992,,1,0.53
+Yes,Not Graduate,3500,135,1,0.11
+Yes,Not Graduate,3917,124,1,0.09
+No,HSC,4408,120,1,0.13
+No,Graduate,3244,80,1,0.12
+No,Not Graduate,3975,55,1,0.16
+No,Graduate,2479,59,1,0.02
+No,Graduate,3418,127,1,0.21
+No,HSC,10000,214,1,0.76
+Yes,Graduate,3430,128,0,0.95
+Yes,Graduate,7787,240,1,0.04
+Yes,Not Graduate,5703,130,1,0.29
+Yes,Graduate,3173,137,1,0.35
+Yes,HSC,3850,100,1,0.02
+Yes,Graduate,150,135,1,0.73
+Yes,Graduate,3727,131,1,0
+Yes,Graduate,5000,72,0,0.93
+Yes,HSC,4283,127,,0.12
+Yes,Graduate,2221,60,0,0.94
+Yes,HSC,4009,116,1,0.02
+No,HSC,2971,144,1,0.56
+Yes,Graduate,7578,175,1,0.03
+Yes,Graduate,6250,128,1,0.02
+Yes,Graduate,3250,170,1,0.3
+Yes,Not Graduate,4735,138,1,0.63
+Yes,Graduate,6250,210,1,0.06
+,HSC,4758,158,1,0.02
+No,Graduate,6400,200,1,0.09
+Yes,Graduate,2491,104,1,0.01
+Yes,Graduate,3716,42,1,0.13
+No,Not Graduate,3189,120,1,0.11
+No,Graduate,8333,280,1,0.17
+Yes,HSC,3155,140,1,0.05
+Yes,Graduate,5500,170,1,0.22
+Yes,Graduate,5746,255,,0.54
+No,Graduate,3463,122,,0.36
+No,Graduate,3812,112,1,0.46
+Yes,Graduate,3315,96,1,0.06
+Yes,HSC,5819,120,1,0.01
+Yes,Not Graduate,2510,140,1,0.37
+No,Graduate,2965,155,1,0.37
+Yes,Graduate,6250,108,1,0.03
+Yes,Not Graduate,3406,123,1,0.04
+No,Graduate,6050,120,1,0.09
+Yes,HSC,9703,112,1,0.04
+Yes,Not Graduate,6608,137,1,0.32
+Yes,Graduate,2882,123,1,0
+Yes,Graduate,1809,90,1,0.09
+Yes,Not Graduate,1668,201,0,0.95
+No,HSC,3427,138,1,0.68
+No,Not Graduate,2583,104,1,0.21
+Yes,Not Graduate,2661,279,1,0.28
+No,Graduate,16250,192,0,0.88
+No,Graduate,3083,255,1,0.14
+No,HSC,6045,115,0,0.92
+Yes,Graduate,5250,94,1,0.53
+Yes,Graduate,14683,304,1,0.57
+Yes,Not Graduate,4931,128,,0.76
+Yes,HSC,6083,330,,0.2
+No,Graduate,2060,134,1,0.27
+No,Graduate,3481,155,1,0.37
+No,Graduate,7200,120,1,0.05
+No,HSC,5166,128,1,0.09
+No,Graduate,4095,151,1,0.05
+Yes,Graduate,4708,150,1,0.16
+Yes,Graduate,4333,160,0,0.96
+No,HSC,3418,135,1,0.63
+No,Graduate,2876,90,1,0.05
+No,Graduate,3237,30,1,0.45
+Yes,HSC,11146,136,1,0.1
+No,Graduate,2833,126,1,0.02
+Yes,Graduate,2620,150,1,0.03
+Yes,Graduate,3900,90,1,0.08
+Yes,HSC,2750,115,1,0.01
+Yes,HSC,3993,207,1,0.06
+Yes,HSC,3103,80,1,0.01
+Yes,Graduate,14583,436,1,0.25
+Yes,Not Graduate,4100,124,,0.47
+No,Not Graduate,4053,158,0,0.9
+Yes,Graduate,3927,112,1,0.29
+Yes,HSC,2301,78,1,0.04
+No,HSC,1811,54,1,0.12
+Yes,HSC,20667,,1,0.75
+No,Graduate,3158,89,1,0.09
+No,Graduate,2600,99,1,0.09
+Yes,Graduate,3704,120,1,0
+No,Graduate,4124,115,1,0.07
+No,Graduate,9508,187,1,0.02
+Yes,Graduate,3075,139,1,0.12
+Yes,Graduate,4400,127,0,0.96
+Yes,Graduate,3153,134,1,0.14
+No,Graduate,5417,143,0,0.46
+Yes,Graduate,2383,172,1,0.12
+Yes,Graduate,4416,110,1,0.28
+Yes,Graduate,6875,200,1,0.01
+Yes,Graduate,4666,135,1,0.31
+No,Graduate,5000,151,1,0.02
+Yes,Graduate,2014,113,1,0.07
+Yes,Not Graduate,1800,93,0,0.91
+Yes,Not Graduate,2875,105,1,0
+No,Graduate,5000,132,1,0.1
+Yes,Graduate,1625,96,1,0.1
+No,Graduate,4000,140,1,0.01
+No,Not Graduate,2000,,1,0.28
+No,Graduate,3762,135,1,0.03
+No,Graduate,2400,104,0,0.94
+No,Graduate,20233,480,1,0.61
+Yes,Not Graduate,7667,185,,0.32
+No,Graduate,2917,84,1,0.03
+No,Not Graduate,2927,111,1,0.04
+No,Graduate,2507,56,1,0.02
+Yes,Graduate,5746,144,,0.2
+Yes,Graduate,2473,159,1,0.29
+Yes,Not Graduate,3399,111,1,0.06
+Yes,Graduate,3717,120,1,0
+Yes,Graduate,2058,88,,0.01
+No,Graduate,3541,112,,0.22
+Yes,Graduate,10000,155,1,0.64
+Yes,Graduate,2400,115,1,0.01
+Yes,Graduate,4342,124,1,0.29
+Yes,Not Graduate,3601,,1,0
+No,Graduate,3166,132,,0.06
+Yes,Graduate,15000,300,1,0.59
+Yes,Graduate,8666,376,0,0.9
+No,Graduate,4917,130,0,0.35
+Yes,Graduate,5818,184,1,0.27
+Yes,Graduate,4333,110,1,0.78
+No,Graduate,2500,67,1,0.03
+No,Graduate,4384,117,1,0.25
+No,Graduate,2935,98,1,0.21
+No,Graduate,2833,71,1,0.1
+Yes,Graduate,63337,490,1,0.14
+Yes,Graduate,9833,182,1,0.06
+Yes,Graduate,5503,70,1,0.31
+Yes,Graduate,5250,160,1,0.15
+Yes,Graduate,2500,176,1,0.06
+No,Not Graduate,1830,,0,0.91
+No,Graduate,4160,71,1,0.34
+Yes,Not Graduate,2647,173,1,0.55
+No,Graduate,2378,46,1,0.22
+Yes,Not Graduate,4554,158,1,0.28
+Yes,Not Graduate,3173,74,1,0.1
+Yes,Graduate,2583,125,1,0.01
+Yes,Graduate,2499,160,1,0.19
+Yes,Not Graduate,3523,152,0,0.98
+Yes,Not Graduate,3083,126,1,0.03
+Yes,Graduate,6333,259,,0.68
+Yes,Graduate,2625,187,1,0.01
+Yes,Graduate,9083,228,1,0.07
+No,Graduate,8750,308,1,0.29
+Yes,Graduate,2666,95,1,0
+Yes,Graduate,5500,105,0,0.99
+Yes,Graduate,2423,130,1,0.01
+No,Graduate,3813,116,1,0.02
+Yes,Graduate,8333,165,1,0.15
+Yes,Graduate,3875,67,1,0.21
+Yes,Not Graduate,3000,100,0,0.97
+Yes,Graduate,5167,200,1,0.36
+No,Graduate,4723,81,1,0.53
+Yes,Graduate,5000,236,1,0.06
+Yes,Graduate,4750,130,1,0.04
+Yes,Graduate,3013,95,,0.34
+No,Graduate,6822,141,1,0.02
+No,Not Graduate,6216,133,1,0.11
+No,Graduate,2500,96,1,0.27
+No,Graduate,5124,124,0,0.47
+Yes,Graduate,6325,175,1,0.14
+Yes,Graduate,19730,570,1,0.84
+No,Graduate,15759,55,1,0.07
+Yes,Graduate,5185,155,1,0.3
+Yes,Graduate,9323,380,1,0.12
+No,Graduate,3062,111,0,0.92
+No,Graduate,2764,110,1,0.12
+Yes,Graduate,4817,120,1,0.01
+Yes,Graduate,8750,130,1,0.09
+Yes,Graduate,4310,130,,0.08
+No,Graduate,3069,71,1,0.28
+Yes,Graduate,5391,130,1,0.06
+Yes,Graduate,3333,128,1,0.01
+No,Graduate,5941,296,1,0.26
+No,Graduate,6000,156,1,0.14
+No,Graduate,7167,128,1,0.09
+Yes,Graduate,4566,100,1,0.67
+No,Graduate,3667,113,1,0.48
+No,Not Graduate,2346,132,1,0.04
+Yes,Not Graduate,3010,,0,0.97
+Yes,Graduate,2333,136,1,0.05
+Yes,Graduate,5488,125,1,0.06
+No,Graduate,9167,185,1,0.02
+Yes,Graduate,9504,275,1,0.19
+Yes,Graduate,2583,120,,0.02
+Yes,Not Graduate,1993,113,1,0.47
+Yes,Graduate,3100,113,1,0.06
+Yes,Graduate,3276,135,,0.37
+No,Graduate,3180,71,0,0.99
+Yes,Graduate,3033,95,1,0.02
+No,Not Graduate,3902,109,1,0.02
+No,Graduate,1500,103,0,0.77
+Yes,Not Graduate,2889,45,0,0.95
+No,Not Graduate,2755,65,1,0.43
+No,Graduate,2500,103,1,0.26
+No,Not Graduate,1963,53,1,0.14
+No,Graduate,7441,194,1,0.11
+No,Graduate,4547,115,1,0.26
+Yes,Not Graduate,2167,115,1,0.21
+No,Not Graduate,2213,66,1,0.17
+Yes,Graduate,8300,152,0,0.97
+Yes,Graduate,81000,360,0,0.57
+No,Not Graduate,3867,62,1,0.51
+Yes,Graduate,6256,160,,0.15
+Yes,Not Graduate,6096,218,0,0.94
+Yes,Not Graduate,2253,110,1,0.25
+Yes,Not Graduate,2149,178,0,0.98
+No,Graduate,2995,60,1,0.31
+No,Graduate,2600,160,1,0.42
+Yes,Graduate,1600,239,1,0.7
+Yes,Graduate,1025,112,1,0.38
+Yes,Graduate,3246,138,1,0.29
+Yes,Graduate,5829,138,1,0.07
+No,Not Graduate,2720,80,0,0.98
+Yes,Graduate,1820,100,1,0.05
+Yes,Graduate,7250,110,0,0.92
+Yes,Graduate,14880,96,1,0.1
+Yes,Graduate,2666,121,1,0
+No,Not Graduate,4606,81,1,0.72
+Yes,Graduate,5935,133,1,0.17
+Yes,Graduate,2920,87,1,0.01
+No,Not Graduate,2717,60,1,0.56
+No,Graduate,8624,150,1,0.01
+No,Graduate,6500,105,0,0.96
+No,Graduate,12876,405,1,0.75
+Yes,Graduate,2425,143,1,0.04
+No,Graduate,3750,100,1,0.17
+,Graduate,10047,,1,0
+No,Graduate,1926,50,1,0.44
+Yes,Graduate,2213,,1,0.12
+No,Graduate,10416,187,0,0.66
+Yes,Not Graduate,7142,138,1,0.14
+No,Graduate,3660,187,1,0.37
+Yes,Graduate,7901,180,1,0.02
+No,Not Graduate,4707,148,1,0.08
+No,Graduate,37719,152,1,0.28
+Yes,Graduate,7333,175,,0.5
+Yes,Graduate,3466,130,1,0.08
+Yes,Not Graduate,4652,110,1,0.16
+Yes,Graduate,3539,55,1,0.37
+Yes,Graduate,3340,150,0,0.99
+No,Not Graduate,2769,190,,0.39
+Yes,Not Graduate,2309,125,0,0.96
+Yes,Not Graduate,1958,60,,0.62
+Yes,Graduate,3948,149,0,0.98
+Yes,Graduate,2483,90,0,0.96
+No,Graduate,7085,84,1,0.13
+Yes,Graduate,3859,96,1,0.04
+Yes,Graduate,4301,118,1,0.14
+Yes,Graduate,3708,173,1,0.25
+No,Graduate,4354,136,1,0.24
+Yes,Graduate,8334,160,1,0.37
+Yes,Graduate,2083,160,,0.11
+Yes,Graduate,7740,128,1,0.06
+Yes,Graduate,3015,153,1,0.05
+No,Not Graduate,5191,132,1,0
+No,Graduate,4166,98,0,0.99
+No,Graduate,6000,140,1,0.01
+Yes,Not Graduate,2947,70,0,0.96
+Yes,Graduate,16692,110,1,0.05
+Yes,Not Graduate,210,98,1,0.09
+Yes,Graduate,4333,110,1,0.78
+Yes,Graduate,3450,162,1,0.13
+Yes,Not Graduate,2653,113,0,1
+Yes,Graduate,4691,100,1,0.18
+No,Graduate,2500,93,,0.09
+No,Graduate,5532,162,1,0
+Yes,Graduate,16525,150,1,0.3
+Yes,Graduate,6700,230,1,0.07
+Yes,Graduate,2873,132,0,1
+Yes,Graduate,16667,86,1,0.05
+Yes,Graduate,2947,,1,0
+No,Not Graduate,4350,154,1,0.09
+Yes,Not Graduate,3095,113,1,0.03
+Yes,Graduate,2083,128,1,0
+Yes,Graduate,10833,234,1,0.02
+Yes,Graduate,8333,246,1,0.01
+Yes,Not Graduate,1958,131,1,0.45
+No,Graduate,3547,80,0,0.99
+Yes,Graduate,18333,500,1,0.35
+Yes,Graduate,4583,160,1,0.1
+No,Graduate,2435,75,1,0.32
+No,Not Graduate,2699,96,,0.27
+Yes,Not Graduate,5333,186,,0.44
+No,Not Graduate,3691,110,1,0.04
+No,Not Graduate,17263,225,1,0.6
+Yes,Graduate,3597,119,0,0.95
+Yes,Graduate,3326,105,1,0.03
+Yes,Not Graduate,2600,107,1,0.05
+Yes,Graduate,4625,111,,0.82
+Yes,Graduate,2895,95,1,0
+No,Graduate,6283,209,0,0.85
+No,Graduate,645,113,1,0.65
+No,Graduate,3159,100,1,0.12
+Yes,Graduate,4865,208,1,0.05
+Yes,Not Graduate,4050,138,,0.77
+Yes,Not Graduate,3814,124,1,0.04
+Yes,Graduate,3510,243,1,0.09
+Yes,Graduate,20833,480,,0.29
+No,Graduate,3583,96,1,0.14
+Yes,Graduate,2479,188,1,0.01
+No,Graduate,13262,40,1,0.25
+No,Not Graduate,3598,100,1,0.58
+Yes,Graduate,6065,250,1,0.14
+Yes,Graduate,3283,148,1,0.1
+Yes,Graduate,2130,70,1,0.2
+No,Graduate,5815,311,1,0.31
+Yes,Graduate,3466,150,1,0.19
+Yes,Graduate,2031,113,1,0.07
+Yes,Not Graduate,3074,123,0,0.96
+No,Graduate,4683,185,1,0.34
+No,Not Graduate,3400,95,1,0.78
+Yes,Not Graduate,2192,45,1,0.62
+No,Graduate,2500,55,1,0.02
+Yes,Graduate,5677,100,1,0.06
+Yes,Graduate,7948,480,1,0.11
+No,Graduate,4680,,1,0.61
+Yes,Graduate,17500,400,1,0.15
+Yes,Graduate,3775,110,1,0.2
+Yes,Not Graduate,5285,161,0,0.94
+No,Not Graduate,2679,94,1,0.47
+No,Not Graduate,6783,130,1,0.08
+Yes,Graduate,1025,216,,0.46
+Yes,Graduate,4281,100,1,0.52
+No,Graduate,3588,110,0,0.98
+No,Graduate,11250,196,,0.74
+No,Not Graduate,18165,125,1,0.27
+No,Not Graduate,2550,126,1,0.06
+Yes,Graduate,6133,324,1,0.22
+No,Graduate,3617,107,1,0.29
+Yes,Not Graduate,2917,66,1,0.35
+Yes,Graduate,6417,157,1,0.26
+Yes,Graduate,4608,140,1,0.22
+No,Graduate,2138,99,0,0.92
+No,Graduate,3652,95,1,0.19
+Yes,Not Graduate,2239,128,1,0.25
+Yes,Not Graduate,3017,102,,0.65
+Yes,Graduate,2768,155,1,0.06
+No,Not Graduate,3358,80,1,0.83
+No,Graduate,2526,145,1,0.15
+No,Graduate,5000,103,0,0.74
+Yes,Graduate,2785,110,1,0.12
+Yes,Graduate,6633,,0,0.93
+Yes,Not Graduate,2492,,1,0.29
+Yes,Graduate,3333,158,1,0.14
+Yes,Not Graduate,2454,181,0,0.95
+Yes,Graduate,3593,132,0,0.98
+Yes,Graduate,5468,26,1,0.29
+No,Graduate,2667,84,,0.11
+Yes,Graduate,10139,260,1,0.13
+Yes,Graduate,3887,162,1,0.06
+Yes,Graduate,4180,182,1,0.33
+Yes,Not Graduate,3675,108,1,0
+Yes,Graduate,19484,600,1,0.73
+Yes,Graduate,5923,211,1,0.09
+No,Not Graduate,5800,132,1,0
+Yes,Graduate,8799,258,0,0.92
+Yes,Not Graduate,4467,120,,0.42
+No,Graduate,3333,70,1,0.28
+Yes,Graduate,3400,123,0,0.95
+No,Graduate,2378,9,1,0.59
+Yes,Graduate,3166,104,0,0.99
+Yes,Graduate,3417,186,1,0.12
+Yes,Graduate,5116,165,0,0.95
+Yes,Graduate,16666,275,1,0.32
+Yes,Not Graduate,6125,187,1,0.81
+Yes,Graduate,6406,150,1,0.51
+Yes,Graduate,3159,108,1,0
+Yes,Graduate,3087,136,0,0.98
+No,Graduate,3229,110,1,0.22
+Yes,Graduate,1782,107,1,0.2
+No,Graduate,3182,161,1,0.36
+Yes,Graduate,6540,205,1,0.01
+No,Graduate,1836,90,1,0.55
+Yes,Graduate,3166,36,1,0.07
+Yes,Graduate,1880,61,,0.17
+Yes,Graduate,2787,146,0,0.98
+Yes,Graduate,4283,172,1,0.63
+Yes,Graduate,2297,104,1,0.01
+No,Not Graduate,2165,70,1,0.13
+No,Graduate,4750,94,1,0.63
+Yes,Graduate,2726,106,0,0.97
+Yes,Graduate,3000,56,1,0.08
+Yes,Graduate,6000,205,1,0.03
+No,Graduate,9357,292,1,0.23
+Yes,Graduate,3859,142,1,0.06
+Yes,Graduate,16120,260,1,0.2
+No,Not Graduate,3833,110,1,0.04
+Yes,Not Graduate,6383,187,1,0.89
+No,Graduate,2987,88,0,1
+Yes,Graduate,9963,180,1,0.04
+Yes,Graduate,5780,192,1,0.39
+No,Graduate,416,350,,0.5
+Yes,Not Graduate,2894,155,1,0.05
+Yes,Graduate,5703,128,1,0.01
+No,Graduate,3676,172,1,0.2
+Yes,Graduate,12000,496,1,0.08
+Yes,Not Graduate,2400,,1,0.03
+Yes,Graduate,3400,173,1,0.22
+Yes,Not Graduate,3987,157,1,0.38
+Yes,Graduate,3232,108,1,0.11
+No,Graduate,2900,71,1,0.13
+Yes,Graduate,4106,40,1,0.12
+Yes,Graduate,8072,253,1,0.02
+Yes,Graduate,7583,187,1,0.01
+No,Graduate,4583,133,0,0.89
